@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Alejandro Crisostomo</h1>
-  <p><b>Desarrollador Web Full Stack</b></p>
+  <p><b>Desarrollador Web </b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/alejandro-crisostomo-sepulveda-b317ab268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
