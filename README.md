@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alejandro 👋
 
-🚀 **Desarrollador Web Full Stack** centrado en el desarrollo de aplicaciones web sólidas, eficientes y escalables.
+🚀 **Desarrollador Web w** centrado en el desarrollo de aplicaciones web sólidas, eficientes y escalables.
 
 ---
 
