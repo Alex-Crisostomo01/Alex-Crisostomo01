@@ -28,12 +28,9 @@
 
 ### 📌 Proyectos Destacados
 
-- 🛍️ **Zest Parfums**: Desarrollo backend y gestión de datos con Spring Boot y MySQL.
-- 🌐 *(Añade aquí tu segundo proyecto estrella con una breve descripción de 1 línea)*
-
 ---
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) https://www.linkedin.com/in/alejandro-crisostomo-sepulveda-b317ab268
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@dominio.com) alexc.trabajo@gmail.com 
