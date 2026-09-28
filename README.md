@@ -16,7 +16,7 @@
 
 Desarrollador de Aplicaciones Web enfocado en el diseño y construcción de arquitecturas **Backend** robustas con **Spring Boot** e interfaces **Frontend** modernas con **React**. Interesado en la aplicación de buenas prácticas de código, arquitectura de software escalable y optimización de bases de datos relacionales.
 
-* **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
+* **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
 * **Backend:** Java, Spring Boot (Spring MVC, Security, Data JPA), Python, REST APIs.
 * **Bases de Datos & Persistencia:** MySQL, Supabase, Hibernate/JPA, SQL.
 * **Herramientas & Entorno:** Git, GitHub, Linux (Bash), Postman, Docker.
@@ -28,7 +28,7 @@ Desarrollador de Aplicaciones Web enfocado en el diseño y construcción de arqu
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Desarrollo Frontend** | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
+| **Desarrollo Frontend** | React,  JavaScript, HTML5, CSS3, Tailwind CSS |
 | **Desarrollo Backend** | Java, Spring Boot, Python, APIs RESTful |
 | **Bases de Datos** | MySQL, Supabase, PostgreSQL |
 | **DevOps & Herramientas** | Git, GitHub, Linux, Postman |
